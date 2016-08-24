@@ -1,0 +1,18 @@
+D:\Rotela Gustavo\clase3.git\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+D:\Rotela Gustavo\clase3.git\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+D:\Rotela Gustavo\clase3.git\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+D:\Rotela Gustavo\clase3.git\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+D:\Rotela Gustavo\clase3.git\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+D:\Rotela Gustavo\clase3.git\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
+C:\Users\gustavo\Desktop\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+C:\Users\gustavo\Desktop\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+C:\Users\gustavo\Desktop\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
+C:\Users\gustavo\Desktop\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Users\gustavo\Desktop\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Users\gustavo\Desktop\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase2Carrera-master\Clase2Carrera-master\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+C:\Users\alumno\Desktop\Clase2Carrera-master\Clase2Carrera-master\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+C:\Users\alumno\Desktop\Clase2Carrera-master\Clase2Carrera-master\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
+C:\Users\alumno\Desktop\Clase2Carrera-master\Clase2Carrera-master\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Users\alumno\Desktop\Clase2Carrera-master\Clase2Carrera-master\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Users\alumno\Desktop\Clase2Carrera-master\Clase2Carrera-master\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
